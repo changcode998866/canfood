@@ -1,4 +1,4 @@
-#餐饮shop 私有项目
+#餐饮shop 项目 运行效果
 <img width="1080" height="2400" alt="58e4673b4b298b273b099897846c2c10" src="https://github.com/user-attachments/assets/ddefcc68-bf05-4cba-90ff-990bda300c55" />
 <img width="1080" height="2400" alt="bb776d66aa3321c896a0c256870f5fa5" src="https://github.com/user-attachments/assets/99990c4a-23ba-42e2-97f2-4d6599c15f94" />
 <img width="1080" height="2400" alt="4ce1a98cf03b739924fb01653e455b65" src="https://github.com/user-attachments/assets/b4e5772e-3a95-4031-974d-79ee56ff7f45" />
